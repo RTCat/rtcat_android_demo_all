@@ -1,3 +1,6 @@
+## 实时猫 Android SDK Demo
+根据[实时猫 Android SDK](https://shishimao.com) 开发的 Demo
+
 ## 说明
 此样例实现视频,音频和文字聊天，摄像头切换功能
 
@@ -23,5 +26,5 @@ public class Config {
 
 ```
 
-
+##
 
