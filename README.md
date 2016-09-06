@@ -1,12 +1,9 @@
 ## 实时猫 Android SDK Demo
-根据[实时猫 Android SDK](https://shishimao.com) 开发的 Demo
-
-## 说明
-此样例实现视频,音频和文字聊天，摄像头切换功能
+使用[实时猫](https://shishimao.com) Android SDK 开发的Demo. 此样例实现视频、音频和文字聊天以及摄像头切换功能。
 
 ## 使用
 
-1. `git clone https://github.com/zombiecong/rtcat_android_demo_1v1.git`
+1. `git clone https://github.com/RTCat/rtcat_android_demo_all.git`
 
 2. 通过`Android Studio`导入, `File > Import Project` ,选择项目中的build.gradle文件导入
 
